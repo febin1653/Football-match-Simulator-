@@ -67,4 +67,4 @@ Players are mapped using positional numbers (`1` to `11`) to accurately construc
 - - -
    
    <img width="799" height="470" alt="Screenshot 2026-10-16 105222" src="https://github.com/user-attachments/assets/37638c81-4202-4fb8-9acf-955f4ea84a5e" />
-<img width="799" height="470" alt="Screenshot 2026-10-16 105222" src="https://github.com/user-attachments/assets/4b7bc0a1-b9b3-4b22-ac24-cd5f7b321b56" />
+
